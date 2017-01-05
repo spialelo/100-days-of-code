@@ -33,3 +33,9 @@
 ### Day 2: January 4, 2017
 **Today's Progress**: Used regex to improve the search for search by name. It seems to be working so far. Will test more and may implement something similar on the other methods.
 **Thoughts** Regex can be a real pain in the...
+
+### Day 3: January 5, 2017
+**Today's Progress: Did 1.5 challenges on Hacker Rank. The first one was just a simple print to console. The second challeng involved arrays, sums, and absolute difference. Was able to solve it in jsfiddle but not execute it in Hacker Rank
+**Thoughs** Taking a break from Hacker Rank and going back to Code Wars until I do more research into Hacker Rank's reading of input.
+#**Link(s) to work**
+#1. [Diagonal Difference](https://jsfiddle.net/spialelo/e5mmweq4/) - the challenge link on HackerRank(https://www.hackerrank.com/challenges/diagonal-difference)
