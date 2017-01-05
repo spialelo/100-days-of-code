@@ -25,6 +25,11 @@
 
 ### Day 0: Work up to January 2,2017
 **Concept: My personal makeup/cosmetics bag or vanity to carry around to keep track of what's in my stash**
+
 ### Day 1: January 3, 2017
 **Today's Progress**: Built out the remaining methods for my searchAll object.
-**Thoughts** Method searchByName. There is room for improvement. My idea: split the input based on whitespace and see if any of the substrings of the input have a pattern that matches any party of the string value stored in the makeup name property at the index in the loop. 
+**Thoughts** Method searchByName. There is room for improvement. My idea: split the input based on whitespace and see if any of the substrings of the input have a pattern that matches any party of the string value stored in the makeup name property at the index in the loop.
+
+### Day 2: January 4, 2017
+**Today's Progress**: Used regex to improve the search for search by name. It seems to be working so far. Will test more and may implement something similar on the other methods.
+**Thoughts** Regex can be a real pain in the...
