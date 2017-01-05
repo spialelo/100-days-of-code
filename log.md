@@ -40,4 +40,5 @@
 #**Link(s) to work**
 #1. [Diagonal Difference](https://jsfiddle.net/spialelo/e5mmweq4/) - the challenge link on HackerRank(https://www.hackerrank.com/challenges/diagonal-difference)
 #2. [Hex to Decimal](https://jsfiddle.net/spialelo/vhof8x81/) - Code Wars challenge
-#3. [Remove First and Last character of a string](https://jsfiddle.net/spialelo/ut2z0992/) - Code wars challenge
+#3. [Remove First and Last character of a string](https://jsfiddle.net/spialelo/ut2z0992/) - Code Wars challenge
+#4. [Average Scores](https://jsfiddle.net/spialelo/bwk69f4f/) - Code Wars challenge
