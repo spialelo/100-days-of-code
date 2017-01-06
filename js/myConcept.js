@@ -83,9 +83,9 @@
 
             document.getElementById("displayBag").innerHTML = searchResults;
             console.log("searching by brand for "+ this.searchMatch);
-            console.log(searchResults);  
+            console.log(searchResults);
         };
-        
+
         this.searchByName = function(){
             var regPattern = this.searchMatch;
             var regex = new RegExp(regPattern, "gi");
@@ -133,7 +133,7 @@
     }
     /* search the bag/array of objects - further plans to make the search more robust, case insensitive, split string at the space to pull in more results when searching by name, etc*/
 
-    function searchMkBag(){        
+    function searchMkBag(){
         var sel = document.getElementById("searchDrop");
         var dropDownSelected = sel.options[sel.selectedIndex].value;
         var searchFor = document.getElementById("searchInput").value;
@@ -185,8 +185,12 @@
 
 
 
+function clearDiv(){
+  document.getElementById("displayBag").textContent = "";
+}
 
-
+var clearDispButton = document.getElementById("clearDisplayButton");
+clearDispButton.onclick = clearDiv;
 
 
 
@@ -194,12 +198,9 @@
 
     function eraseDiv() {
 
-        var displayField = document.getElementById("displayBag");
-        var feedbackField = document.getElementById("feedbackMakeup");
-
-        /*Reset the display area to an empty square.*/
-        displayField.textContent = "";
-        feedbackField.textContent = "";
+      /*Reset the display area to an empty square.*/
+        document.getElementById("displayBag").textContent = "";
+        document.getElementById("feedbackMakeup").textContent = "";
 
         var form = document.getElementById("makeupForm");
 
@@ -207,8 +208,8 @@
         form.reset();
 
         /*Reset the display area size to the original values.*/
-        displayField.style.width = "400px";
-        displayField.style.height = "400px";
+        displayField.style.width = 400+"px";
+        displayField.style.height = 400+"px";
 
     }
 
