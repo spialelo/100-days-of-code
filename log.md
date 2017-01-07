@@ -49,3 +49,4 @@ My makeup/cosmetics bag side project: removed the css from the HTML file and lin
 **Thoughts** It was recommended to me to look into using localStorage to save my user input, so I don't have to keep re-entering it when I navigate away from the page. Doing research on the Storage object and how to implement it when working with an array of objects.
 #**Link(s) to work**
 #1. [Get the Middle Character](https://jsfiddle.net/spialelo/7L0xppap/) - Code Wars challenge
+#2. [Sum of the random string](https://jsfiddle.net/spialelo/w6j68yt4/) - Code Wars challenge
