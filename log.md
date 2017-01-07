@@ -37,9 +37,15 @@
 ### Day 3: January 5, 2017
 **Today's Progress: Did 1.5 challenges on Hacker Rank. The first one was just a simple print to console. The second challeng involved arrays, sums, and absolute difference. Was able to solve it in jsfiddle but not execute it in Hacker Rank
 My makeup/cosmetics bag side project: removed the css from the HTML file and linked to it externally. Added a clear display button & function, plus tweaked the reset button function a tiny bit.
-**Thoughs** Taking a break from Hacker Rank and going back to Code Wars until I do more research into Hacker Rank's reading of input.
+**Thoughts** Taking a break from Hacker Rank and going back to Code Wars until I do more research into Hacker Rank's reading of input.
 #**Link(s) to work**
 #1. [Diagonal Difference](https://jsfiddle.net/spialelo/e5mmweq4/) - the challenge link on HackerRank(https://www.hackerrank.com/challenges/diagonal-difference)
 #2. [Hex to Decimal](https://jsfiddle.net/spialelo/vhof8x81/) - Code Wars challenge
 #3. [Remove First and Last character of a string](https://jsfiddle.net/spialelo/ut2z0992/) - Code Wars challenge
 #4. [Average Scores](https://jsfiddle.net/spialelo/bwk69f4f/) - Code Wars challenge
+
+### Day 3: January 5, 2017
+**Today's Progress: Worked on Codewars challenges and did research on localStorage for my side project.
+**Thoughts** It was recommended to me to look into using localStorage to save my user input, so I don't have to keep re-entering it when I navigate away from the page. Doing research on the Storage object and how to implement it when working with an array of objects.
+#**Link(s) to work**
+#1. [Get the Middle Character](https://jsfiddle.net/spialelo/7L0xppap/) - Code Wars challenge
