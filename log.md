@@ -44,9 +44,15 @@ My makeup/cosmetics bag side project: removed the css from the HTML file and lin
 #3. [Remove First and Last character of a string](https://jsfiddle.net/spialelo/ut2z0992/) - Code Wars challenge
 #4. [Average Scores](https://jsfiddle.net/spialelo/bwk69f4f/) - Code Wars challenge
 
-### Day 3: January 5, 2017
+### Day 4: January 6, 2017
 **Today's Progress: Worked on Codewars challenges and did research on localStorage for my side project.
 **Thoughts** It was recommended to me to look into using localStorage to save my user input, so I don't have to keep re-entering it when I navigate away from the page. Doing research on the Storage object and how to implement it when working with an array of objects.
 #**Link(s) to work**
 #1. [Get the Middle Character](https://jsfiddle.net/spialelo/7L0xppap/) - Code Wars challenge
 #2. [Sum of the random string](https://jsfiddle.net/spialelo/w6j68yt4/) - Code Wars challenge
+
+### Day 5: January 7, 2017
+**Today's Progress: Worked on Codewars challenges and read about gulp. Also working on creating my gulp file.
+**Thoughts** Reading multiple articles about gulp and what dependencies to require, then go about setting up the gulp.task.
+#**Link(s) to work**
+#1. [Calculate Average](https://jsfiddle.net/spialelo/o7nL4ede/) - Code Wars challenge
