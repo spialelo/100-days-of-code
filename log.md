@@ -56,3 +56,10 @@ My makeup/cosmetics bag side project: removed the css from the HTML file and lin
 **Thoughts** Reading multiple articles about gulp and what dependencies to require, then go about setting up the gulp.task.
 #**Link(s) to work**
 #1. [Calculate Average](https://jsfiddle.net/spialelo/o7nL4ede/) - Code Wars challenge
+
+### Day 6: January 8, 2017
+**Today's Progress: Codewars challenges and reading up on gulp some more.
+**Thoughts** Reading multiple articles about gulp and what dependencies to require. Making multiple gulpfiles, to ensure I understand it.
+#**Link(s) to work**
+#1. [Who likes it?](https://jsfiddle.net/spialelo/74z7jrsv/) - Code Wars challenge
+#2. [Format a string of names like 'Bart, Lisa & Maggie'.](https://jsfiddle.net/spialelo/Lm3pcw08/) - Code Wars challenge
