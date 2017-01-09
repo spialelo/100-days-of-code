@@ -63,3 +63,4 @@ My makeup/cosmetics bag side project: removed the css from the HTML file and lin
 #**Link(s) to work**
 #1. [Who likes it?](https://jsfiddle.net/spialelo/74z7jrsv/) - Code Wars challenge
 #2. [Format a string of names like 'Bart, Lisa & Maggie'.](https://jsfiddle.net/spialelo/Lm3pcw08/) - Code Wars challenge
+#3. [Replace With Alphabet Position](https://jsfiddle.net/spialelo/8owuqz4n/) - Code Wars challenge
