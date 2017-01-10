@@ -64,3 +64,9 @@ My makeup/cosmetics bag side project: removed the css from the HTML file and lin
 #1. [Who likes it?](https://jsfiddle.net/spialelo/74z7jrsv/) - Code Wars challenge
 #2. [Format a string of names like 'Bart, Lisa & Maggie'.](https://jsfiddle.net/spialelo/Lm3pcw08/) - Code Wars challenge
 #3. [Replace With Alphabet Position](https://jsfiddle.net/spialelo/8owuqz4n/) - Code Wars challenge
+
+### Day 7: January 9, 2017
+**Today's Progress: Codewars challenges and reading up on gulp some more.
+**Thoughts** Worked doggedly at solving a code wars challenge. Don't want to go a day without completing at least one challenge and/or working on my project.
+#**Link(s) to work**
+#1. [Reverse words](https://jsfiddle.net/spialelo/t0we84xk/) - Code Wars challenge
