@@ -67,6 +67,7 @@ My makeup/cosmetics bag side project: removed the css from the HTML file and lin
 
 ### Day 7: January 9, 2017
 **Today's Progress: Codewars challenges and reading up on gulp some more.
-**Thoughts** Worked doggedly at solving a code wars challenge. Don't want to go a day without completing at least one challenge and/or working on my project.
+**Thoughts** Worked doggedly at solving a code wars challenge. Don't want to go a day without completing at least one challenge and/or working on my project. Also made progress with testing out localStorage in jsfiddle: setting and retrieving info.
 #**Link(s) to work**
 #1. [Reverse words](https://jsfiddle.net/spialelo/t0we84xk/) - Code Wars challenge
+#2. [Eloquent JavaScript: Chessbord](https://jsfiddle.net/spialelo/16Lk2ehh/) - EJ Excercise No. 3
