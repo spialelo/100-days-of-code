@@ -35,7 +35,7 @@
 **Thoughts** Regex can be a real pain in the...
 
 ### Day 3: January 5, 2017
-**Today's Progress: Did 1.5 challenges on Hacker Rank. The first one was just a simple print to console. The second challeng involved arrays, sums, and absolute difference. Was able to solve it in jsfiddle but not execute it in Hacker Rank
+**Today's Progress**: Did 1.5 challenges on Hacker Rank. The first one was just a simple print to console. The second challenge involved arrays, sums, and absolute difference. Was able to solve it in jsfiddle but not execute it in Hacker Rank
 My makeup/cosmetics bag side project: removed the css from the HTML file and linked to it externally. Added a clear display button & function, plus tweaked the reset button function a tiny bit.
 **Thoughts** Taking a break from Hacker Rank and going back to Code Wars until I do more research into Hacker Rank's reading of input.
 #**Link(s) to work**
@@ -45,20 +45,20 @@ My makeup/cosmetics bag side project: removed the css from the HTML file and lin
 #4. [Average Scores](https://jsfiddle.net/spialelo/bwk69f4f/) - Code Wars challenge
 
 ### Day 4: January 6, 2017
-**Today's Progress: Worked on Codewars challenges and did research on localStorage for my side project.
+**Today's Progress**: Worked on Codewars challenges and did research on localStorage for my side project.
 **Thoughts** It was recommended to me to look into using localStorage to save my user input, so I don't have to keep re-entering it when I navigate away from the page. Doing research on the Storage object and how to implement it when working with an array of objects.
 #**Link(s) to work**
 #1. [Get the Middle Character](https://jsfiddle.net/spialelo/7L0xppap/) - Code Wars challenge
 #2. [Sum of the random string](https://jsfiddle.net/spialelo/w6j68yt4/) - Code Wars challenge
 
 ### Day 5: January 7, 2017
-**Today's Progress: Worked on Codewars challenges and read about gulp. Also working on creating my gulp file.
+**Today's Progress**: Worked on Codewars challenges and read about gulp. Also working on creating my gulp file.
 **Thoughts** Reading multiple articles about gulp and what dependencies to require, then go about setting up the gulp.task.
 #**Link(s) to work**
 #1. [Calculate Average](https://jsfiddle.net/spialelo/o7nL4ede/) - Code Wars challenge
 
 ### Day 6: January 8, 2017
-**Today's Progress: Codewars challenges and reading up on gulp some more.
+**Today's Progress**: Codewars challenges and reading up on gulp some more.
 **Thoughts** Reading multiple articles about gulp and what dependencies to require. Making multiple gulpfiles, to ensure I understand it.
 #**Link(s) to work**
 #1. [Who likes it?](https://jsfiddle.net/spialelo/74z7jrsv/) - Code Wars challenge
@@ -66,9 +66,15 @@ My makeup/cosmetics bag side project: removed the css from the HTML file and lin
 #3. [Replace With Alphabet Position](https://jsfiddle.net/spialelo/8owuqz4n/) - Code Wars challenge
 
 ### Day 7: January 9, 2017
-**Today's Progress: Codewars challenges and reading up on gulp some more.
+**Today's Progress**: Codewars challenges and reading up on gulp some more.
 **Thoughts** Worked doggedly at solving a code wars challenge. Don't want to go a day without completing at least one challenge and/or working on my project. Also made progress with testing out localStorage in jsfiddle: setting and retrieving info. Plus put in work on Eloquent JavaScript.
 #**Link(s) to work**
 #1. [Reverse words](https://jsfiddle.net/spialelo/t0we84xk/) - Code Wars challenge
 #2. [Eloquent JavaScript: Chessbord](https://jsfiddle.net/spialelo/16Lk2ehh/) - EJ Excercise Ch 2. No. 3
 #3. [Minimum](https://jsfiddle.net/spialelo/gg80f3kp/) - EJ Exercise Ch 3. No. 1
+
+### Day 8: January 10, 2017
+**Today's Progress**: Read a bit more of Eloquent JavaScript during my lunch break and worked on an exercise.
+**Thoughts** Glad I'm making progress in Eloquent JavaScript. I tend to start reading it, and the forget to go back to it. Planning to continue my makeup side project in both JavaScript and Angular. Will review 1-2 lessons on Angular for a refresh, before starting.
+#**Link(s) to work**
+#1. [Recursion](https://jsfiddle.net/spialelo/wjz73eLn/) - EJ Exercise Ch 3. No. 2
