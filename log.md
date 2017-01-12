@@ -78,3 +78,10 @@ My makeup/cosmetics bag side project: removed the css from the HTML file and lin
 **Thoughts** Glad I'm making progress in Eloquent JavaScript. I tend to start reading it, and the forget to go back to it. Planning to continue my makeup side project in both JavaScript and Angular. Will review 1-2 lessons on Angular for a refresh, before starting.
 #**Link(s) to work**
 #1. [Recursion](https://jsfiddle.net/spialelo/wjz73eLn/) - EJ Exercise Ch 3. No. 2
+
+
+### Day 9: January 11, 2017
+**Today's Progress**: Eloquent JavaScript + Codewars exercises.
+**Thoughts** Improving my JavaScript skills everyday. Will be starting work on the Angular version of my project either this weekend or next week.
+#**Link(s) to work**
+#1. [Bean Counting](https://jsfiddle.net/spialelo/ftw8dodz/) - EJ Exercise Ch 3. No. 3
