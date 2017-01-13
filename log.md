@@ -90,3 +90,10 @@ My makeup/cosmetics bag side project: removed the css from the HTML file and lin
 ### Day 10: January 12, 2017
 **Today's Progress**: Reviewing AngularJS Lessons on Lynda.com.
 **Thoughts** Doing a refresher before starting the Angular version of my side project. Also creating my folder structure for it, since I plan to use gulp alon with it.
+
+
+### Day 11: January 13, 2017
+**Today's Progress**: Git repo for Angular project created, folder structure set up, and temporary gulpfile made.
+**Thoughts** Fingers crossed what I learned from Lynda, gave me a solid foundation upon to build on.
+#**Link(s) to work**
+#1. [GitHub Repo](https://github.com/spialelo/my-beauty-stash)
