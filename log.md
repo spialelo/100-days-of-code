@@ -85,3 +85,8 @@ My makeup/cosmetics bag side project: removed the css from the HTML file and lin
 **Thoughts** Improving my JavaScript skills everyday. Will be starting work on the Angular version of my project either this weekend or next week.
 #**Link(s) to work**
 #1. [Bean Counting](https://jsfiddle.net/spialelo/ftw8dodz/) - EJ Exercise Ch 3. No. 3
+
+
+### Day 10: January 12, 2017
+**Today's Progress**: Reviewing AngularJS Lessons on Lynda.com.
+**Thoughts** Doing a refresher before starting the Angular version of my side project. Also creating my folder structure for it, since I plan to use gulp alon with it.
