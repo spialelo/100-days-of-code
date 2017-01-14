@@ -93,7 +93,8 @@ My makeup/cosmetics bag side project: removed the css from the HTML file and lin
 
 
 ### Day 11: January 13, 2017
-**Today's Progress**: Git repo for Angular project created, folder structure set up, and temporary gulpfile made.
-**Thoughts** Fingers crossed what I learned from Lynda, gave me a solid foundation upon to build on.
+**Today's Progress**: Git repo for Angular project created, folder structure set up, and temporary gulpfile made. Began working on JavaScript30 challenge.
+**Thoughts** Fingers crossed what I learned from Lynda, gave me a solid foundation upon to build on. With regards to the JavaScript 30 challenge, I am picking up ES6 quickly.
 #**Link(s) to work**
-#1. [GitHub Repo](https://github.com/spialelo/my-beauty-stash)
+#1. [Angular Version of Project GitHub Repo](https://github.com/spialelo/my-beauty-stash)
+#2. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
