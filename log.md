@@ -98,3 +98,26 @@ My makeup/cosmetics bag side project: removed the css from the HTML file and lin
 #**Link(s) to work**
 #1. [Angular Version of Project GitHub Repo](https://github.com/spialelo/my-beauty-stash)
 #2. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
+
+
+### Day 12: January 14, 2017
+**Today's Progress**: Finished Day 2 and 3 of JavaScript30 challenge.
+**Thoughts** I'm picking up ES6 easily so far. Residual Java knowledge from college could be the reason why.
+#**Link(s) to work**
+#1. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
+
+
+### Day 13: January 15, 2017
+**Today's Progress**: Array Cardio Day 1 completed and started the Flex Panels Image Gallery.
+**Thoughts** I think I like ES6.
+#**Link(s) to work**
+#1. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
+
+
+### Day 14: January 16, 2017
+**Today's Progress**: Finished Flex Panels Gallery and the Type Ahead Challenge. Moving onto Array Cardio Day 2.
+**Thoughts** I plan to redo the 30 day challenge exercises a few more times, just to make sure I get the concepts and logic.
+#**Link(s) to work**
+#1. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
+#2. [My codepen: Flex Panels Image Gallery](https://codepen.io/spialelo/pen/GrjVdo)
+#3. [My codepen: Type Ahead](https://codepen.io/spialelo/pen/ZLBzbV)
