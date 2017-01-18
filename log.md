@@ -121,3 +121,10 @@ My makeup/cosmetics bag side project: removed the css from the HTML file and lin
 #1. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
 #2. [My codepen: Flex Panels Image Gallery](https://codepen.io/spialelo/pen/GrjVdo)
 #3. [My codepen: Type Ahead](https://codepen.io/spialelo/pen/ZLBzbV)
+
+
+### Day 15: January 17, 2017
+**Today's Progress**: HTML5 Canvas fun completed. Added a clear canvas button.
+**Thoughts** I want to add the ability for user to change the color of the stroke and the width of line. Radio buttons?
+#**Link(s) to work**
+#1. [My codepen: Fun With HTML5 Canvas](http://codepen.io/spialelo/pen/QdGgKR)
