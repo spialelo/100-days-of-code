@@ -128,3 +128,24 @@ My makeup/cosmetics bag side project: removed the css from the HTML file and lin
 **Thoughts** I want to add the ability for user to change the color of the stroke and the width of line. Radio buttons?
 #**Link(s) to work**
 #1. [My codepen: Fun With HTML5 Canvas](http://codepen.io/spialelo/pen/QdGgKR)
+
+
+### Day 16: January 18, 2017
+**Today's Progress**: Day 9, Dev Tool tricks completed.
+**Thoughts** Learned a few dev tricks I didn't know or forgot about. I will use console.table as much as possible when dealing with arrays.
+#**Link(s) to work**
+#1. [JS Fiddle: 14 Dev Tools Tricks](https://jsfiddle.net/spialelo/hnjLdaz3/)
+
+
+### Day 17: January 19, 2017
+**Today's Progress**: Day 10, Selecting multiple Checkboxes. Completed.
+**Thoughts** This one I tackled in codepen using Sass for the css portion. I wanted to challenge myself.
+#**Link(s) to work**
+#1. [My codepen: Hold Shift to multiple select Checkboxes](http://codepen.io/spialelo/pen/qRRqJd)
+
+
+### Day 18: January 20, 2017
+**Today's Progress**: Day 11, HTML5 Video player. Completed. 
+**Thoughts** This will be used at work in the future, for sure. Mainly the css styles. I'm sure the designers would like to style it a little. Update: Made the fullscreen function work, after looking up the HTML5 vide player a little bit more. Insert happy face and dance.
+#**Link(s) to work**
+#1. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
