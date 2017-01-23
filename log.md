@@ -149,3 +149,17 @@ My makeup/cosmetics bag side project: removed the css from the HTML file and lin
 **Thoughts** This will be used at work in the future, for sure. Mainly the css styles. I'm sure the designers would like to style it a little. Update: Made the fullscreen function work, after looking up the HTML5 vide player a little bit more. Insert happy face and dance.
 #**Link(s) to work**
 #1. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
+
+
+### Day 19: January 21, 2017
+**Today's Progress**: Day 12, Key detection sequence completed. Completed. 
+**Thoughts** I knew about keyup event listener already but I learned of a way to store the user's keystrokes into an array. Also learned about cornify_add().
+#**Link(s) to work**
+#1. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
+
+
+### Day 20: January 22, 2017
+**Today's Progress**: Day 13 and 14 completed. 
+**Thoughts** Slide in on scroll is a nice effect. Probably would be best used on an educational site, teaching children about history. it would keep them engaged. Difference of Copy and Reference will be reviewed in the future. I'm sure somewhere down the road, I will forget what I 'copied' or 'referenced'.
+#**Link(s) to work**
+#1. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
