@@ -163,3 +163,10 @@ My makeup/cosmetics bag side project: removed the css from the HTML file and lin
 **Thoughts** Slide in on scroll is a nice effect. Probably would be best used on an educational site, teaching children about history. it would keep them engaged. Difference of Copy and Reference will be reviewed in the future. I'm sure somewhere down the road, I will forget what I 'copied' or 'referenced'.
 #**Link(s) to work**
 #1. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
+
+
+### Day 21: January 23, 2017
+**Today's Progress**: Day 15 completed. 
+**Thoughts** localStorage. I want to learn more about it and make sure I understand how it can be used for my side project.
+#**Link(s) to work**
+#1. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
