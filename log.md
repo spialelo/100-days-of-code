@@ -170,3 +170,24 @@ My makeup/cosmetics bag side project: removed the css from the HTML file and lin
 **Thoughts** localStorage. I want to learn more about it and make sure I understand how it can be used for my side project.
 #**Link(s) to work**
 #1. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
+
+
+### Day 22: January 24, 2017
+**Today's Progress**: Day 16 started. 
+**Thoughts** Was tired this day/night but decided to start on day 16 a little.
+#**Link(s) to work**
+#1. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
+
+
+### Day 23: January 25, 2017
+**Today's Progress**: Day 16 continued. 
+**Thoughts** Did some work on Day 16 in Codepen during lunch at work and then again at home. Also did some reading/listening to AngularJs 1.
+#**Link(s) to work**
+#1. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
+
+
+### Day 24: January 26, 2017
+**Today's Progress**: Day 16 finished. 
+**Thoughts** When I got home after an outing, made sure to focus on finishing day 16. Tomorrow Day 17 and possibly day 18, with a bit more of AngularJS.
+#**Link(s) to work**
+#1. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
