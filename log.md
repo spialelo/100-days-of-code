@@ -191,3 +191,32 @@ My makeup/cosmetics bag side project: removed the css from the HTML file and lin
 **Thoughts** When I got home after an outing, made sure to focus on finishing day 16. Tomorrow Day 17 and possibly day 18, with a bit more of AngularJS.
 #**Link(s) to work**
 #1. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
+
+
+### Day 25: January 27, 2017
+**Today's Progress**: Day 17 finished and day 18 started. 
+**Thoughts** No thoughts.
+#**Link(s) to work**
+#1. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
+
+
+### Day 26: January 28, 2017
+**Today's Progress**: Day 18 and 20 finished. 
+**Thoughts** Day 18 completed. I've picked up ES6 pretty quickly. Need to work on destructuring and string interpolation more.
+#**Link(s) to work**
+#1. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
+
+
+### Day 27 - 28: January 29 - 30, 2017
+**Today's Progress**: Did some reading on AngularJS and started day 22 of JavaScript30. 
+**Thoughts** Was feeling tired and didn't want to look at the computer screen on day 27, so that's why I chose to read.
+#**Link(s) to work**
+#1. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
+
+
+### Day 29: February 1, 2017
+**Today's Progress**: Messed around with AngularJS and jquery today. 
+**Thoughts** Had downtime at work and wanted to see if I could create the app and controller from memory in Angular, and I did. Then after doing a small test input with data binding, I decided to build upon it. I made it give the user their age. I used my jsfiddle to work through the Date.parse() logic in jquery before moving it codepen and in Angular. I need to make time to work on Eloquent JavaScript.
+#**Link(s) to work**
+#1. [My codepen: Messing Around With AngularJS | How old are you?](http://codepen.io/spialelo/pen/QdmjvP)
+#2. [Messing with date object](https://jsfiddle.net/spialelo/mw3guakn/)
