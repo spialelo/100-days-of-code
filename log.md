@@ -220,3 +220,17 @@ My makeup/cosmetics bag side project: removed the css from the HTML file and lin
 #**Link(s) to work**
 #1. [My codepen: Messing Around With AngularJS | How old are you?](http://codepen.io/spialelo/pen/QdmjvP)
 #2. [Messing with date object](https://jsfiddle.net/spialelo/mw3guakn/)
+
+
+### Day 30: February 2, 2017
+**Today's Progress**: Completed day 22 of JavaScript30 and started day 23.
+**Thoughts** 
+#**Link(s) to work**
+#1. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
+
+
+### Day 31: February 3, 2017
+**Today's Progress**: Completed day 23 of JavaScript30.
+**Thoughts** I enjoyed working on the Speech Synthesis challenge. I wonder if I can replicate something similar with AngularJS?
+#**Link(s) to work**
+#1. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
