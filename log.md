@@ -234,3 +234,31 @@ My makeup/cosmetics bag side project: removed the css from the HTML file and lin
 **Thoughts** I enjoyed working on the Speech Synthesis challenge. I wonder if I can replicate something similar with AngularJS?
 #**Link(s) to work**
 #1. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
+
+
+### Day 32: February 6, 2017
+**Today's Progress**: Completed day 24 of JavaScript30.
+**Thoughts** This would have came in handy, years ago when I was working on a sticky nav. Will remember it for the future.
+#**Link(s) to work**
+#1. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
+
+
+### Day 33: February 7, 2017
+**Today's Progress**: Started day 25 of JavaScript30, but then got distracted by work.
+**Thoughts** Yea, work took precident. Had to pause the challenge.
+#**Link(s) to work**
+#1. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
+
+
+### Day 34: February 8, 2017
+**Today's Progress**: Completed day 25 of JavaScript30.
+**Thoughts** It was nice to see how even propagation, capture, etc. works. 
+#**Link(s) to work**
+#1. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
+
+
+### Day 35: February 10, 2017
+**Today's Progress**: Completed day 26 of JavaScript30.
+**Thoughts** My ES6 syntax knowledge has increased and I'm confident using it.
+#**Link(s) to work**
+#1. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
