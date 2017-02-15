@@ -262,3 +262,31 @@ My makeup/cosmetics bag side project: removed the css from the HTML file and lin
 **Thoughts** My ES6 syntax knowledge has increased and I'm confident using it.
 #**Link(s) to work**
 #1. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
+
+
+### Day 36: February 11, 2017
+**Today's Progress**: Completed day 27 and started day 28.
+**Thoughts** It's interesting what you can do with mouse events. I want to learn more about them and master them.
+#**Link(s) to work**
+#1. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
+
+
+### Day 37: February 12, 2017
+**Today's Progress**: Completed day 28 of JavaScript30.
+**Thoughts** I enjoy working with/manipulating the video player.
+#**Link(s) to work**
+#1. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
+
+
+### Day 38: February 13, 2017
+**Today's Progress**: Started day 29 of JavaScript30.
+**Thoughts** working on this count down timer has been fun. I've definitely got the hang of ES6.
+#**Link(s) to work**
+#1. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
+
+
+### Day 39: February 14, 2017
+**Today's Progress**: Completed day 29 of JavaScript30.
+**Thoughts** Finished up day 29, tonight. I may use the timer for when I step away from my desk, at work. Once I finish the JavaScript30 challenge, I will focus on completing Eloquent JavaScript.
+#**Link(s) to work**
+#1. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
