@@ -290,3 +290,24 @@ My makeup/cosmetics bag side project: removed the css from the HTML file and lin
 **Thoughts** Finished up day 29, tonight. I may use the timer for when I step away from my desk, at work. Once I finish the JavaScript30 challenge, I will focus on completing Eloquent JavaScript.
 #**Link(s) to work**
 #1. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
+
+
+### Day 40: February 17, 2017
+**Today's Progress**: Completed day 30, 20, & 21 of JavaScript30.
+**Thoughts** The compass course of day 21 was pretty fun. I need to redo it on a Mac, to get the compass to move.
+#**Link(s) to work**
+#1. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
+
+
+### Day 41: February 20, 2017
+**Today's Progress**: Started day 19.
+**Thoughts** I'm enjoying working with HTML5, especially canvas, video, and audio.
+#**Link(s) to work**
+#1. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
+
+
+### Day 42: February 21, 2017
+**Today's Progress**: Completed day 19 of JavaScript30. JavaScript30 completed.
+**Thoughts** I will add more filters. I need to do more research into the appropriate rgb values and add them. I will make them buttons too, when I get the chance.
+#**Link(s) to work**
+#1. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
