@@ -311,3 +311,10 @@ My makeup/cosmetics bag side project: removed the css from the HTML file and lin
 **Thoughts** I will add more filters. I need to do more research into the appropriate rgb values and add them. I will make them buttons too, when I get the chance.
 #**Link(s) to work**
 #1. [JavaScript 30 GitHub Repo](https://github.com/spialelo/js30days)
+
+
+### Day 43: February 24, 2017
+**Today's Progress**: Started Flexbox.io course by Wes Bos.
+**Thoughts** Goal of taking this course is to make sure I fully grasp Flexbox.
+#**Link(s) to work**
+#1. [100 Days of Code GitHub Repo](https://github.com/spialelo/100-days-of-code)
