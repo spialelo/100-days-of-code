@@ -255,6 +255,13 @@ input::-moz-focus-inner {
 
 .container {
     display: flex;
-    border: 10px solid goldenrod;
-    height: 100vh;
+    border: 10px solid mistyrose;
 }
+
+.box {
+    /*flex: 1;*/
+    /*Evenly distributes flex items within the container*/
+}
+
+
+/*Flex items have a default order value of 0. Anything greater than zero, will follow all the zero items. */
